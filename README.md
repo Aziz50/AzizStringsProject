@@ -10,7 +10,7 @@ So far we
 
 3. We went into the project folder using the command prompt.
 
-'''
+```
 Microsoft Windows [Version 6.1.7601]
 Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 
@@ -88,21 +88,21 @@ J:\COMSC_1033_Workspace\AzizStringsProject>dir
 10/30/2015  12:23 PM               232 .classpath
                2 File(s)            626 bytes
                4 Dir(s)   8,063,090,688 bytes free
-'''
+```
 
 4. We went to Github (https://github.com) and logged into Aziz's account.
 
 5. We created a new repository. We named the new repository AzizStringProject.
 
 6. We created a readme file using the command: 
-'''
+```
 J:\COMSC_1033_Workspace\AzizStringsProject>
 echo # AzizStringsProject >> README.md
-'''
+```
 
 7. We updated the readme file.
 8. We finished following through the important parts of the online instructions to finish creating the new repository.
-'''
+```
 
 J:\COMSC_1033_Workspace\AzizStringsProject>git init
 Initialized empty Git repository in J:/COMSC_1033_Workspace/AzizStringsProject/.
@@ -142,4 +142,4 @@ To https://github.com/Aziz50/AzizStringsProject.git
 Branch master set up to track remote branch master from origin.
 
 J:\COMSC_1033_Workspace\AzizStringsProject>
-'''
+```
