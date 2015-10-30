@@ -101,3 +101,45 @@ echo # AzizStringsProject >> README.md
 '''
 
 7. We updated the readme file.
+8. We finished following through the important parts of the online instructions to finish creating the new repository.
+'''
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git init
+Initialized empty Git repository in J:/COMSC_1033_Workspace/AzizStringsProject/.
+git/
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git add .
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git config user.name "[Aziz]"
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git config user.name "Aziz"
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git config user.email "a.mh50@hotmail
+.com"
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git commit -m "first commit"
+[master (root-commit) c2af263] first commit
+ 5 files changed, 131 insertions(+)
+ create mode 100644 .classpath
+ create mode 100644 .project
+ create mode 100644 README.md
+ create mode 100644 bin/AzizStrings.class
+ create mode 100644 src/AzizStrings.java
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git remote add origin https://github.
+com/Aziz50/AzizStringsProject.git
+
+J:\COMSC_1033_Workspace\AzizStringsProject>git push -u origin master
+Username for 'https://github.com': Aziz50
+Password for 'https://Aziz50@github.com':
+Counting objects: 9, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 2.43 KiB | 0 bytes/s, done.
+Total 9 (delta 0), reused 0 (delta 0)
+To https://github.com/Aziz50/AzizStringsProject.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+J:\COMSC_1033_Workspace\AzizStringsProject>
+'''
